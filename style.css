@@ -17,7 +17,7 @@ h1, h2 { color:aliceblue;}
 
 /* Links sem sublinhado */
 a {
-    color:aliceblue;
+    color:rgb(149, 195, 235);
     text-decoration: none;
     font-weight: bold;
 }
