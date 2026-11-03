@@ -1,0 +1,7 @@
+/* Fonte e cores gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color:rgb(29, 104, 168);
+    color:rgb(34, 14, 104);
+    margin: 0;
+}
