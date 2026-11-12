@@ -113,7 +113,7 @@ h2 {
   max-width: 1100px;                          /* largura máxima, alinha com a área dos produtos */
   margin: 48px auto 8px;                      /* espaço em cima, centraliza o bloco e pouco espaço embaixo */
   padding: 0 20px 0 16px;                     /* afasta o texto da borda da tela (resolve o "Nossos" cortado) */
-  border-left: 5px solid #e8457c;             /* barrinha rosa à esquerda do título */
+  border-left: 5px solid #85079e;             /* barrinha rosa à esquerda do título */
 }
 
 h2 ~ p {
@@ -174,7 +174,7 @@ h2 + table td p {
 h2 + table td p:last-child {
   font-size: 1.5rem;                          /* preço grande (é o último parágrafo do cartão) */
   font-weight: 600;                           /* preço em seminegrito */
-  color: #e8457c;                             /* preço em rosa forte, para chamar atenção */
+  color: lch(49.23% 87.24 327.94);                             /* preço em rosa forte, para chamar atenção */
   margin-top: 12px;                           /* afasta o preço da descrição */
 }
 
